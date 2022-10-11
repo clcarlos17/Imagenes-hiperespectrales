@@ -1,0 +1,104 @@
+ENVI
+description = {[HEADWALL Hyperspec III]}
+samples = 320
+lines = 1
+bands = 70
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bil
+sensor type = Unknown
+byte order = 0
+wavelength units = nm
+wavelength = {
+881.674
+,893.693
+,905.711
+,917.73
+,929.749
+,941.768
+,953.787
+,965.806
+,977.825
+,989.844
+,1001.86
+,1013.88
+,1025.9
+,1037.92
+,1049.94
+,1061.96
+,1073.98
+,1086
+,1098.01
+,1110.03
+,1122.05
+,1134.07
+,1146.09
+,1158.11
+,1170.13
+,1182.15
+,1194.17
+,1206.19
+,1218.2
+,1230.22
+,1242.24
+,1254.26
+,1266.28
+,1278.3
+,1290.32
+,1302.34
+,1314.36
+,1326.38
+,1338.39
+,1350.41
+,1362.43
+,1374.45
+,1386.47
+,1398.49
+,1410.51
+,1422.53
+,1434.55
+,1446.56
+,1458.58
+,1470.6
+,1482.62
+,1494.64
+,1506.66
+,1518.68
+,1530.7
+,1542.72
+,1554.74
+,1566.75
+,1578.77
+,1590.79
+,1602.81
+,1614.83
+,1626.85
+,1638.87
+,1650.89
+,1662.91
+,1674.93
+,1686.94
+,1698.96
+,1710.98
+}
+;AOI height = 256
+;AOI left = 0
+;AOI top = 0
+;AOI width = 320
+;Array Pixel Pitch (um) = 30
+;AverageDispersion = 12.01896467
+;Col binning = 1
+;Lens EFL (mm) = 25
+;Lens folder = 25mm
+;Nuc folder = 
+;POST AOI height = 70
+;POST AOI left = 0
+;POST AOI top = 94
+;POST AOI width = 320
+;POST Col binning = 1
+;POST Row binning = 1
+;Pixel0 = -248.10911999
+;Row binning = 1
+;Serial Number = uVS-251
+;hsiii_version = Hyperspec v3.1.4***RC2***
